@@ -18,5 +18,3 @@ A GitHub repository that serves 2 purposes:
 
 5. Create 5 milestones, named week 1 through to week 5, and group the relevant issue to each milestone.
 
-6. test
-
